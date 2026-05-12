@@ -8,9 +8,9 @@ This is my first Git and GitHub website.
 
 ## Features are include 
 
--Html
--Git repository
--GitHub upload 
+- Html
+- Git repository
+- GitHub upload 
 
 ## Author
 
